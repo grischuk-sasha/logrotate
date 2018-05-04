@@ -1,1 +1,1 @@
-# logrotate
+# logrotate your volumes
